@@ -1,1 +1,16 @@
 
+class Development(Config):
+  APP_ID = "6216349"
+  API_HASH = "5c7418e9f3df6db931caa7354521c55f"
+  TG_BOT_TOKEN = "5880563885:AAHf0Fi8x_iNDfHmpL0y03KO3sUxnn_ZlE0"
+  AUTH_USERS = [1823080600]
+  CHANNEL1_ID = "-1001854758671"                            
+  CHANNEL1_NAME = "File Rename"
+  CHANNEL2_ID = ""
+  CHANNEL2_NAME = ""
+  CHANNEL3_ID = ""
+  CHANNEL3_NAME = ""
+  CHANNEL4_ID = ""
+  CHANNEL4_NAME = ""
+  CHANNEL5_ID = ""
+  CHANNEL5_NAME = ""
