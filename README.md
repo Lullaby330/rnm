@@ -41,7 +41,7 @@ These functions can be done in a single download** 😍
 
 ## 💠 Easy Way :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/renameprobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lullaby330/rnm)
 
 ## 💠 In linux Servers Or VPS:
 
